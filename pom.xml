@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.github.pmerienne</groupId>
     <artifactId>azkaban-slack</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
 
     <repositories>
         <repository>
@@ -116,7 +116,7 @@
         <connection>scm:git:git@github.com:pmerienne/azkaban-slack.git</connection>
         <developerConnection>scm:git:git@github.com:pmerienne/azkaban-slack.git</developerConnection>
         <url>scm:git:git@github.com:pmerienne/azkaban-slack.git</url>
-        <tag>HEAD</tag>
+        <tag>0.0.1</tag>
     </scm>
 
 </project>
