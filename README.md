@@ -1,4 +1,4 @@
-h2. How to enable slack alerting with Azkaban
+# How to enable slack alerting with Azkaban
 - [Create a slack bot](https://my.slack.com/services/new/bot) and note the authentication token
 - Download [latest release](https://github.com/pmerienne/azkaban-slack/releases/download/0.0.1/azkaban-slack-0.0.1-dist.tar.gz)
 - Extract archive content in plugins/alerter directory
